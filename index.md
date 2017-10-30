@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Some Phaser assets
 
-You can use the [editor on GitHub](https://github.com/pomeranian99/phaserassets/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is just a static page to easily host some public assets for projects I'm fiddling around with using [Phaser](https://phaser.io/).
 
